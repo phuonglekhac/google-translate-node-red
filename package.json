@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phuonglekhac/google-translate-node-red"
+    "url": "git+https://github.com/phuonglekhac/google-translate-node-red.git"
   },
   "keywords": [
     "node-red",
